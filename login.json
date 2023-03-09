@@ -1,0 +1,32 @@
+﻿{
+  "loginlist": [
+    {
+      "username": "user",
+      "password": "password"
+    },
+    {
+      "username": "David",
+      "password": "Hi"
+    },
+    {
+      "username": "David",
+      "password": "ivet"
+    },
+    {
+      "username": "David",
+      "password": "IVET"
+    },
+    {
+      "username": "0",
+      "password": "0"
+    },
+    {
+      "username": "Robin",
+      "password": "123"
+    },
+    {
+      "username": "Gregor",
+      "password": "123"
+    }
+  ]
+}

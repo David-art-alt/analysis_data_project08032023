@@ -1,0 +1,2 @@
+ID,Name,SampleID,Process,Carbon [wt%],Hydrogen [wt%],Nitrogen [wt%],Sulfur [wt%],ash [wt%],Volatiles [wt%],Moisture [wt%],Temperature [°C],Pressure [bar],Dwell time [min],Additives,lo Heating value [J/g]
+11,0,HTC,Slurry,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
